@@ -1,0 +1,32 @@
+body,html{
+	background-color:lavender; /*Color de fondo*/
+	font-family:Century,sans-serif; /*Tipo de fuente que se esta utilizando*/
+	margin:0; /*Elimina márgenes predeterminados*/
+	padding:0; /*Elimina rellenos predeterminados*/
+	width:100%; /*Es el ancho*/
+	height:100%;
+	font-style:italic;/*Cambia el estilo de la letra*/
+}
+
+	body{
+	   border:7px ridge #191970;
+}
+	h1{
+	font-size:35px;/*Define el tamaño de la fuente*/
+       	text-align: center; /*Es para centrar el texto*/ 
+	font-style:italic;/*Cambia el estilo de la letra*/
+	color: #000080; /*Color del título*/
+}
+	h2{
+	font-size:24px;/*Define el tamaño de la fuente*/
+    	text-align:center;  /*Hace que el texto este centrado*/
+    	color:purple;
+	font-style:italic; text-decoration:underline;
+}
+
+p{
+	color:indigo;
+	font-size:20px; /*Se cambia el tamaño de la letra*/
+	text-align:center;
+	line-height:0.3; /*Espacio entre líneas*/
+}
